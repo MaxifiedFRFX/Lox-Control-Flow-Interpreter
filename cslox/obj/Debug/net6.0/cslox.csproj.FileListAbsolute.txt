@@ -1,0 +1,15 @@
+/home/srnitro/craftinginterpreters/cslox/bin/Debug/net6.0/cslox
+/home/srnitro/craftinginterpreters/cslox/bin/Debug/net6.0/cslox.deps.json
+/home/srnitro/craftinginterpreters/cslox/bin/Debug/net6.0/cslox.runtimeconfig.json
+/home/srnitro/craftinginterpreters/cslox/bin/Debug/net6.0/cslox.dll
+/home/srnitro/craftinginterpreters/cslox/bin/Debug/net6.0/cslox.pdb
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.csproj.AssemblyReference.cache
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.GeneratedMSBuildEditorConfig.editorconfig
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.AssemblyInfoInputs.cache
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.AssemblyInfo.cs
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.csproj.CoreCompileInputs.cache
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.dll
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/ref/cslox.dll
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.pdb
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/cslox.genruntimeconfig.cache
+/home/srnitro/craftinginterpreters/cslox/obj/Debug/net6.0/refint/cslox.dll

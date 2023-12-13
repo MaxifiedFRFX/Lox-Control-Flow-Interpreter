@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zYOd3OtXkVMMx2AAhjCgPkh6eXho0MgYYpWDy+68vwlmKeA4JeWV+OZPDXs2a3unxJUeC1q20f6Fj87eyRMTKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SERNi\\OneDrive\\Documents\\CPTR-405\\public\\cslox\\cslox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERNi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\SERNi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SERNi\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\SERNi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\SERNi\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\SERNi\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
